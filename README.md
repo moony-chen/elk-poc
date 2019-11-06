@@ -1,7 +1,9 @@
 # Buddhist Machine Log system
+`
 **/*log                 test log files
 filebeat.*.yml          file beats config
 buddhist-pipeline.conf  logstash pipeline
+`
 
 
 ## Start elastic search
@@ -16,8 +18,9 @@ bin/kibana
 
 ## Start LogStash
 `
-bin/logstash -f ./buddhist-pipeline.conf
+bin/logstash -f ./buddhist-pipeline.conf 
 `
+optional with `--config.reload.automatic` for development
 
 ## Start file beat on buddhist machine server
 `
