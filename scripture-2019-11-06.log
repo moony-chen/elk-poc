@@ -1,0 +1,142 @@
+2019-11-06 22:46:19.045|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:19.605|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"瑜伽心悦道歌不见他过维摩子","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chQaAR07GAEm0EwBRQyQ821.mp3"},"success":true}
+2019-11-06 22:46:23.704|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:23.721|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"坚持是金两只蝴蝶","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chVOAYXoaAEKeHFwKrAA802.mp3"},"success":true}
+2019-11-06 22:46:23.953|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:23.967|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"别骄傲","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chgaAfg0kAD4E9Ql9n84189.mp3"},"success":true}
+
+2019-11-06 22:46:24.131|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:24.146|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"大爱化冰","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chAiAMSFRADxkpNWP0wM236.mp3"},"success":true}
+
+2019-11-06 22:46:24.314|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:24.327|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"密勒日巴的心最可贵","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chMGAZBKrAD9W95wRvdU357.mp3"},"success":true}
+
+2019-11-06 22:46:24.491|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:24.503|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"放下","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTiAbQYYAD_UoAaAw6Q850.mp3"},"success":true}
+
+2019-11-06 22:46:24.667|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:24.679|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"无上怙主药师佛","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chgKAcSBnAEm0AyBxDuo592.mp3"},"success":true}
+
+2019-11-06 22:46:24.895|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:24.911|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"处处是道场","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chLWADdmdADjahle_W-Q573.mp3"},"success":true}
+
+2019-11-06 22:46:25.067|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:46:25.080|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"我的心儿醉","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2cg9mARVeoAD_F9LG4frQ008.mp3"},"success":true}
+
+2019-11-06 22:46:27.561|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:27.573|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"处处是道场","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chLWADdmdADjahle_W-Q573.mp3"},"success":true}
+
+2019-11-06 22:46:27.752|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:27.765|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"无上怙主药师佛","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chgKAcSBnAEm0AyBxDuo592.mp3"},"success":true}
+
+2019-11-06 22:46:27.987|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:28.000|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"放下","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTiAbQYYAD_UoAaAw6Q850.mp3"},"success":true}
+
+2019-11-06 22:46:28.146|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:28.161|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"密勒日巴的心最可贵","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chMGAZBKrAD9W95wRvdU357.mp3"},"success":true}
+
+2019-11-06 22:46:28.384|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:28.401|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"大爱化冰","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chAiAMSFRADxkpNWP0wM236.mp3"},"success":true}
+
+2019-11-06 22:46:28.563|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:46:28.575|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"别骄傲","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chgaAfg0kAD4E9Ql9n84189.mp3"},"success":true}
+
+2019-11-06 22:48:21.977|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:22.000|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"大爱化冰","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chAiAMSFRADxkpNWP0wM236.mp3"},"success":true}
+
+2019-11-06 22:48:22.438|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:22.450|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"密勒日巴的心最可贵","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chMGAZBKrAD9W95wRvdU357.mp3"},"success":true}
+
+2019-11-06 22:48:22.688|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:22.698|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"放下","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTiAbQYYAD_UoAaAw6Q850.mp3"},"success":true}
+
+2019-11-06 22:48:22.866|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:22.877|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"无上怙主药师佛","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chgKAcSBnAEm0AyBxDuo592.mp3"},"success":true}
+
+2019-11-06 22:48:23.078|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:23.094|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"处处是道场","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chLWADdmdADjahle_W-Q573.mp3"},"success":true}
+
+2019-11-06 22:48:23.350|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:23.361|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"我的心儿醉","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2cg9mARVeoAD_F9LG4frQ008.mp3"},"success":true}
+
+2019-11-06 22:48:23.577|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:23.590|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"红尘因果","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTyAaGnTAC3j_fiK35Q773.mp3"},"success":true}
+
+2019-11-06 22:48:23.804|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:23.816|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"轮回的老人","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chLiASczZAEGCCa6gXZQ331.mp3"},"success":true}
+
+2019-11-06 22:48:24.027|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:24.038|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"多点回向我就来","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chGWAIucwAEDEqnsosNc576.mp3"},"success":true}
+
+2019-11-06 22:48:24.282|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:24.296|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"零点道歌","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chPyAGNNSADFzAgcYlO0963.mp3"},"success":true}
+
+2019-11-06 22:48:24.442|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:24.453|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"众生怙主虚空藏","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chP6AfDB5ADC_cMI7-WM108.mp3"},"success":true}
+
+2019-11-06 22:48:24.674|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:24.685|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"轮回","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chMKAY_OXADbH5Ew62eE919.mp3"},"success":true}
+
+2019-11-06 22:48:24.853|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:24.865|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"恒时顶礼麦彭仁波切","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chIaAWiS4AEUWCj4pILc072.mp3"},"success":true}
+
+2019-11-06 22:48:25.072|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:25.084|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"三大文殊的爱","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chc-AASAVAD2wFnpCQ6E407.mp3"},"success":true}
+
+2019-11-06 22:48:25.250|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:25.260|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"永远的怙主香巴秋珍","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chHiATM0zADb8MNd4t7U333.mp3"},"success":true}
+
+2019-11-06 22:48:25.447|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:25.458|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"圣尊文殊","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chZCAW0GaAERE93k1fIY146.mp3"},"success":true}
+
+2019-11-06 22:48:25.632|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:25.643|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"伟大的上师","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chfqATYIyAEXdIzub2tU130.mp3"},"success":true}
+
+2019-11-06 22:48:25.867|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:25.878|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"正见无敌","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chZuAYfYpAEIJiqYHhm4237.mp3"},"success":true}
+
+2019-11-06 22:48:26.054|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:26.065|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"净观如意宝","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chGWAFRXlADaE-RAoyuY173.mp3"},"success":true}
+
+2019-11-06 22:48:26.264|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:26.274|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"你从法界中来","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chISAb6FdADbBYqUiHuU993.mp3"},"success":true}
+
+2019-11-06 22:48:26.474|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:26.485|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"普贤大士万丈光芒","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chfuAF2jKAD29KxbQuIA070.mp3"},"success":true}
+
+2019-11-06 22:48:26.670|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:26.681|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"法王除盖障","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTSAM6qYADq6hifF5Ho361.mp3"},"success":true}
+
+2019-11-06 22:48:26.856|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:26.869|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"狮面佛母我的永恒依怙主","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chaCAIwYtAELSbVg-RRs560.mp3"},"success":true}
+
+2019-11-06 22:48:27.023|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:27.033|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"必须有正见","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chb6AAiFAADn2m7i-ZtQ196.mp3"},"success":true}
+
+2019-11-06 22:48:27.211|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:27.221|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"我的上师莲花生","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chcyAc9hHAEYgGBuItBE630.mp3"},"success":true}
+
+2019-11-06 22:48:27.455|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：下一首  执行接口：nextSongSound 
+2019-11-06 22:48:27.465|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：下一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"护法万岁","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chdyAcBhwAEIbf-WqAPQ129.mp3"},"success":true}
+
+2019-11-06 22:48:35.365|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:35.376|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"我的上师莲花生","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chcyAc9hHAEYgGBuItBE630.mp3"},"success":true}
+
+2019-11-06 22:48:35.649|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:35.660|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"必须有正见","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chb6AAiFAADn2m7i-ZtQ196.mp3"},"success":true}
+
+2019-11-06 22:48:35.823|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:35.833|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"狮面佛母我的永恒依怙主","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chaCAIwYtAELSbVg-RRs560.mp3"},"success":true}
+
+2019-11-06 22:48:36.059|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:36.069|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"法王除盖障","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chTSAM6qYADq6hifF5Ho361.mp3"},"success":true}
+
+2019-11-06 22:48:36.219|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:36.229|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"普贤大士万丈光芒","path":"http://47.107.243.166:8003/group1/M00/00/14/rBLH-F2chfuAF2jKAD29KxbQuIA070.mp3"},"success":true}
+
+2019-11-06 22:48:36.399|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:36.411|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"你从法界中来","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chISAb6FdADbBYqUiHuU993.mp3"},"success":true}
+
+2019-11-06 22:48:36.611|ApiSearchController|SXK-HZ-HZ-001|INFO|B|  客户端调用：上一首  执行接口：pervSongSound 
+2019-11-06 22:48:36.622|ApiSearchController|SXK-HZ-HZ-001|INFO|S|  客户端调用：上一首  调用成功，返回结果为：{"code":"200","content":{"author":" 华语群星","category":"SONG","filename":"净观如意宝","path":"http://47.107.243.166:8003/group1/M00/00/13/rBLH-F2chGWAFRXlADaE-RAoyuY173.mp3"},"success":true}
+
