@@ -1,6 +1,0 @@
-2019-10-05 21:06:12.952|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|Device Bootup finished
-2019-10-05 21:06:17.164|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|Play bootup welcome message
-2019-10-05 21:06:17.168|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|Wakeup by user
-2019-10-05 21:06:17.478|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|send audio message to server
-2019-10-05 21:08:50.494|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|received command: text_start
-2019-10-05 21:08:51.494|21797106-aca6-4271-9c5d-0b90cf9f1255|INFO|received command: text_end
