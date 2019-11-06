@@ -1,9 +1,9 @@
 # Buddhist Machine Log system
-`
-**/*log                 test log files
-filebeat.*.yml          file beats config
-buddhist-pipeline.conf  logstash pipeline
-`
+| File                   | Desc              |
+|------------------------|-------------------|
+| **/*log                | test log files    |
+| filebeat.*.yml         | file beats config |
+| buddhist-pipeline.conf | logstash pipeline |
 
 
 ## Start elastic search
