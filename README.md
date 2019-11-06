@@ -19,7 +19,7 @@ bin/kibana
 ## Start LogStash
 `
 bin/logstash -f ./buddhist-pipeline.conf 
-`
+`  
 optional with `--config.reload.automatic` for development
 
 ## Start file beat on buddhist machine server
